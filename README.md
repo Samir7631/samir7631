@@ -148,7 +148,7 @@ https://github.com/Samir7631/slooze-frontend-challenge
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:f59e0b&height=65&section=header&text=ENGINEERING%20INTERESTS&fontSize=26&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?
 
 </div>
 
