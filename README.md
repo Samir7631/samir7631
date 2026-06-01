@@ -156,7 +156,7 @@ https://github.com/Samir7631/slooze-frontend-challenge
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:10b981&height=65&section=header&text=CONNECT%20WITH%20ME&fontSize=26&fontColor=ffffff&animation=fadeIn" />
+type=rect&color=0:111827,100:10b981&height=65&section=header&text=CONNECT%20WITH%20ME&fontSize=26&fontColor=ffffff&animation=fadeIn" />
 
 </div>
 
