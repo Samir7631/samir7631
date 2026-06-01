@@ -4,53 +4,56 @@
 
 ### Backend-Focused Full Stack Developer • Real-Time Systems • AI Applications
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Lead+Software+Developer+%40+Creditor+Academy;Building+Backend-Heavy+Full+Stack+Products;Real-Time+Systems+%7C+WebSockets+%7C+Socket.IO;Voice+AI+%7C+Twilio+%7C+Deepgram+%7C+LLMs;Building+Production-Ready+Systems+Not+Just+Demos" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Lead+Software+Developer+%40+Creditor+Academy;Building+Backend-Heavy+Full+Stack+Products;Real-Time+Systems+%7C+WebSockets+%7C+Socket.IO;Voice+AI+%7C+Twilio+%7C+Deepgram+%7C+LLMs;Building+Production-Ready+Systems+Not+Just+Demos" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I am a backend-focused full stack developer passionate about building:
+I’m a backend-focused full stack developer passionate about building:
 
 - scalable backend systems
 - real-time collaborative platforms
 - AI-powered products
 - voice AI systems
-- production-grade APIs and architectures
+- production-grade APIs & architectures
 
 Currently working as:
 
-### 💼 Lead Software Developer @ Creditor Academy
+## 💼 Lead Software Developer @ Creditor Academy
 
 I enjoy solving engineering problems around:
 - WebSockets & real-time communication
 - backend architecture
-- AI integrations
 - scalable APIs
+- AI integrations
 - event-driven systems
 - product engineering
 
 ---
 
-# 🧠 Tech Stack
+# 🛠 Tech Stack
 
-<div align="center">
+## Backend
+```txt
+Node.js • Express.js • FastAPI • Python
+MongoDB • PostgreSQL • Redis
+REST APIs • WebSockets • Socket.IO
+```
 
-### Backend
+## Frontend
+```txt
+React.js • Next.js • TypeScript
+JavaScript • Tailwind CSS • HTML • CSS
+```
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,mongodb,postgres,redis" />
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css" />
-
-### AI / Cloud / Tools
-
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,postman" />
-
-</div>
+## AI / Infra / Tools
+```txt
+LLM Integrations • Twilio • Deepgram
+AWS • Docker • Git • GitHub • Postman
+```
 
 ---
 
@@ -58,60 +61,65 @@ I enjoy solving engineering problems around:
 
 ---
 
-## 🎙️ VoxDesk AI
+# 🎙️ VoxDesk AI
 
 > Real-time conversational voice AI platform using WebSockets, Twilio, Deepgram, and LLM pipelines.
 
 ### Core Engineering Areas
 - real-time audio streaming
 - speech-to-text pipelines
-- AI orchestration
-- WebSocket communication
 - conversational AI workflows
+- backend orchestration
+- WebSocket communication
 
-### Links
-- Repository:
+### Repository
+```txt
 https://github.com/Samir7631/voxdesk-ai
+```
 
 ---
 
-## ⚡ RT Collab Taskboard
+# ⚡ RT Collab Taskboard
 
 > Real-time collaborative platform with live synchronization and multi-user interaction.
 
 ### Core Engineering Areas
 - Socket.IO
 - MERN stack
-- live collaboration
 - real-time sync
 - backend event handling
+- collaboration systems
 
-### Links
-- Repository:
+### Repository
+```txt
 https://github.com/Samir7631/rt-collab-taskboard
+```
 
 ---
 
-## 💰 Finance Mentor AI
+# 💰 Finance Mentor AI
 
-> AI-powered financial guidance platform with modern conversational UI and intelligent workflows.
+> AI-powered financial guidance platform with conversational workflows and modern UI.
 
 ### Links
-- Repository:
+```txt
+Repository:
 https://github.com/Samir7631/finance-mentor-ai
 
-- Live Demo:
+Live Demo:
 https://finance-mentor-ai.vercel.app
+```
 
 ---
 
-## 🎨 Slooze Frontend Challenge
+# 🎨 Slooze Frontend Challenge
 
-> Frontend engineering project focused on modular architecture, UI workflows, and modern React patterns.
+> Frontend engineering project focused on modular architecture and modern React workflows.
 
-### Links
-- Repository:
+### Repository
+```txt
 https://github.com/Samir7631/slooze-frontend-challenge
+```
 
 ---
 
@@ -124,28 +132,6 @@ AI Product Engineering █████████████████░░
 Frontend Engineering ████████████████░░░░░ 78%
 System Design ██████████████████░░░ 88%
 ```
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samir7631&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Samir7631&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 📚 Most Used Technologies
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samir7631&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
@@ -174,3 +160,4 @@ System Design ██████████████████░░░ 88
 ## ⚡ “I build systems that are scalable, real-time, and production-ready.”
 
 </div>
+```
