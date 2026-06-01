@@ -152,17 +152,7 @@ https://github.com/Samir7631/slooze-frontend-challenge
 
 </div>
 
-<br>
 
-```txt
-Backend Architecture ████████████████████░ 95%
-Real-Time Systems ██████████████████░░░ 90%
-AI Product Engineering █████████████████░░░░ 84%
-Frontend Engineering ████████████████░░░░░ 78%
-System Design ██████████████████░░░ 88%
-```
-
----
 
 <div align="center">
 
