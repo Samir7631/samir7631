@@ -148,15 +148,25 @@ https://github.com/Samir7631/slooze-frontend-challenge
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:f59e0b&height=65&section=header&text=ENGINEERING%20INTERESTS&fontSize=26&fontColor=ffffff&animation=fadeIn" />
 
 </div>
 
+<br>
 
+```txt
+Backend Architecture ████████████████████░ 95%
+Real-Time Systems ██████████████████░░░ 90%
+AI Product Engineering █████████████████░░░░ 84%
+Frontend Engineering ████████████████░░░░░ 78%
+System Design ██████████████████░░░ 88%
+```
+
+---
 
 <div align="center">
 
-type=rect&color=0:111827,100:10b981&height=65&section=header&text=CONNECT%20WITH%20ME&fontSize=26&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:10b981&height=65&section=header&text=CONNECT%20WITH%20ME&fontSize=26&fontColor=ffffff&animation=fadeIn" />
 
 </div>
 
