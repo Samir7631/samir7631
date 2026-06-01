@@ -10,7 +10,13 @@
 
 ---
 
-# 🚀 About Me
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:2563eb&height=65&section=header&text=ABOUT%20ME&fontSize=26&fontColor=ffffff&animation=fadeIn" />
+
+</div>
+
+<br>
 
 I’m a backend-focused full stack developer passionate about building:
 
@@ -34,9 +40,16 @@ I enjoy solving engineering problems around:
 
 ---
 
-# 🛠 Tech Stack
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:7c3aed&height=65&section=header&text=TECH%20STACK&fontSize=26&fontColor=ffffff&animation=fadeIn" />
+
+</div>
+
+<br>
 
 ## Backend
+
 ```txt
 Node.js • Express.js • FastAPI • Python
 MongoDB • PostgreSQL • Redis
@@ -44,12 +57,14 @@ REST APIs • WebSockets • Socket.IO
 ```
 
 ## Frontend
+
 ```txt
 React.js • Next.js • TypeScript
 JavaScript • Tailwind CSS • HTML • CSS
 ```
 
 ## AI / Infra / Tools
+
 ```txt
 LLM Integrations • Twilio • Deepgram
 AWS • Docker • Git • GitHub • Postman
@@ -57,9 +72,13 @@ AWS • Docker • Git • GitHub • Postman
 
 ---
 
-# ⚔️ Featured Projects
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:06b6d4&height=65&section=header&text=FEATURED%20PROJECTS&fontSize=26&fontColor=ffffff&animation=fadeIn" />
+
+</div>
+
+<br>
 
 # 🎙️ VoxDesk AI
 
@@ -73,6 +92,7 @@ AWS • Docker • Git • GitHub • Postman
 - WebSocket communication
 
 ### Repository
+
 ```txt
 https://github.com/Samir7631/voxdesk-ai
 ```
@@ -91,6 +111,7 @@ https://github.com/Samir7631/voxdesk-ai
 - collaboration systems
 
 ### Repository
+
 ```txt
 https://github.com/Samir7631/rt-collab-taskboard
 ```
@@ -102,6 +123,7 @@ https://github.com/Samir7631/rt-collab-taskboard
 > AI-powered financial guidance platform with conversational workflows and modern UI.
 
 ### Links
+
 ```txt
 Repository:
 https://github.com/Samir7631/finance-mentor-ai
@@ -117,13 +139,20 @@ https://finance-mentor-ai.vercel.app
 > Frontend engineering project focused on modular architecture and modern React workflows.
 
 ### Repository
+
 ```txt
 https://github.com/Samir7631/slooze-frontend-challenge
 ```
 
 ---
 
-# 📈 Engineering Interests
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:f59e0b&height=65&section=header&text=ENGINEERING%20INTERESTS&fontSize=26&fontColor=ffffff&animation=fadeIn" />
+
+</div>
+
+<br>
 
 ```txt
 Backend Architecture ████████████████████░ 95%
@@ -135,7 +164,13 @@ System Design ██████████████████░░░ 88
 
 ---
 
-# 🌐 Connect With Me
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:10b981&height=65&section=header&text=CONNECT%20WITH%20ME&fontSize=26&fontColor=ffffff&animation=fadeIn" />
+
+</div>
+
+<br>
 
 <div align="center">
 
@@ -160,4 +195,3 @@ System Design ██████████████████░░░ 88
 ## ⚡ “I build systems that are scalable, real-time, and production-ready.”
 
 </div>
-```
