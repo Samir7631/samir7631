@@ -2,7 +2,7 @@
 
 # ⚡ Samir Kumar
 
-### Backend-Focused Full Stack Developer • Real-Time Systems • AI Applications
+### Full Stack Developer • Real-Time Systems • AI Applications
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Lead+Software+Developer+%40+Creditor+Academy;Building+Backend-Heavy+Full+Stack+Products;Real-Time+Systems+%7C+WebSockets+%7C+Socket.IO;Voice+AI+%7C+Twilio+%7C+Deepgram+%7C+LLMs;Building+Production-Ready+Systems+Not+Just+Demos" />
 
@@ -18,7 +18,7 @@
 
 <br>
 
-I’m a backend-focused full stack developer passionate about building:
+I’m a full stack developer passionate about building:
 
 - scalable backend systems
 - real-time collaborative platforms
