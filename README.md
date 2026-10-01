@@ -28,7 +28,7 @@ I’m a full stack developer passionate about building:
 
 Currently working as:
 
-## 💼 Lead Software Developer @ Creditor Academy
+## 💼 Lead Software Developer @ Neugenm.ai
 
 I enjoy solving engineering problems around:
 - WebSockets & real-time communication
